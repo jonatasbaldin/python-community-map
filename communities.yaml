@@ -286,3 +286,8 @@
   lat: 32.824458
   lng: -117.6695076
   url: http://www.pythonsd.org/
+
+- name: Boulder Python
+  lat: 40.0293704
+  lng: -105.2749968
+  url: http://www.boulderpython.org/
