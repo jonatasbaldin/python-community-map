@@ -173,6 +173,14 @@
   lat: 37.983103
   lng: 23.724767
   url: http://python.org.gr/
+  
+###
+### Mauritius
+###
+- name: Python Mauritius User Group (PYMUG)
+  lat: -20.294079
+  lng: 57.490768
+  url: http://www.pymug.com
 
 ###
 ### Nigeria
