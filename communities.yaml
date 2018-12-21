@@ -173,7 +173,7 @@
   lat: 37.983103
   lng: 23.724767
   url: http://python.org.gr/
- 
+
 ###
 ### India
 ###
@@ -182,6 +182,14 @@
   lng: 80.2707
   url: https://www.meetup.com/chennaipy/
   logo: https://pbs.twimg.com/profile_images/826103316643975169/Sa_ZKNtb_400x400.jpg
+
+###
+### Mauritius
+###
+- name: Python Mauritius User Group (PYMUG)
+  lat: -20.294079
+  lng: 57.490768
+  url: http://www.pymug.com
 
 ###
 ### Nigeria
