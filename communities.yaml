@@ -173,6 +173,15 @@
   lat: 37.983103
   lng: 23.724767
   url: http://python.org.gr/
+ 
+###
+### India
+###
+- name: ChennaiPy
+  lat: 13.0827
+  lng: 80.2707
+  url: https://www.meetup.com/chennaipy/
+  logo: https://pbs.twimg.com/profile_images/826103316643975169/Sa_ZKNtb_400x400.jpg
 
 ###
 ### Nigeria
