@@ -227,6 +227,16 @@
   lng: -97.7405641
   url: https://www.meetup.com/austinpython/
 
+- name: Boston Python
+  lat: 42.361482
+  lng: -71.081226
+  url: https://www.meetup.com/bostonpython/
+
+- name: Boulder Python
+  lat: 40.0293704
+  lng: -105.2749968
+  url: http://www.boulderpython.org/
+
 - name: ChiPy
   lat: 41.8781
   lng: -87.6298
@@ -257,11 +267,6 @@
   lng: -71.463033
   url: https://www.meetup.com/New-Hampshire-Python-Group/
 
-- name: Boston Python
-  lat: 42.361482
-  lng: -71.081226
-  url: https://www.meetup.com/bostonpython/
-
 - name: Puget Sound Programming Python (PuPPy)
   lat: 47.5989758
   lng: -122.3337873
@@ -282,12 +287,13 @@
   lng: -96.7115229
   url: https://www.meetup.com/python4e/
 
+- name: Salt Lake City Python
+  lat: 40.7658975
+  lng: -111.8487193
+  url: https://www.meetup.com/SLCPython/
+
 - name: San Diego Python User Group
   lat: 32.824458
   lng: -117.6695076
   url: http://www.pythonsd.org/
 
-- name: Boulder Python
-  lat: 40.0293704
-  lng: -105.2749968
-  url: http://www.boulderpython.org/
