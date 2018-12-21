@@ -217,6 +217,12 @@
   lng: -16.629129
   url: https://pythoncanarias.es/
   logo: https://github.com/pythoncanarias/docs/raw/master/logos/python-canarias/bitmaps/logo-python-canarias-color-solo-128x128.png
+  
+- name: Python Vigo
+  lat: 42.237478
+  lng: -8.717551
+  url: https://www.python-vigo.es/
+  logo: https://raw.githubusercontent.com/python-vigo/python-vigo.github.io/master/pythonvigologo.png
 
 ###
 ### South Africa
