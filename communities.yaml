@@ -280,6 +280,11 @@
   lng: -119.798830
   url: https://www.meetup.com/fresnopython/
 
+- name: LexPy
+  lat: 38.038749
+  lng: -84.504251
+  url: https://www.meetup.com/lex_py/
+
 - name: MEMpy
   lat: 35.149532
   lng: -90.048981
