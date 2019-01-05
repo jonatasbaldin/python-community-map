@@ -125,7 +125,12 @@
   lat: -19.924851
   lng: -43.937731
   url: https://www.meetup.com/PyData-Belo-Horizonte/
-  
+
+- name: Grupy Blumenau
+  lat: -26.918940
+  lng: -49.066059
+  url: https://pythonbnu.github.io/
+
 ###
 ### Canada
 ###
