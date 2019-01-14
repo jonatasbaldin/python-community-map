@@ -338,3 +338,12 @@
   lat: 20.888466
   lng: -76.204596
   url: https://t.me/pythoncuba/
+
+
+###
+### Venezuela
+###
+- name: Fundacion Python de Venezuela
+  lat: 8.422952
+  lng: -66.983880
+  url: https://pyve.github.io/
