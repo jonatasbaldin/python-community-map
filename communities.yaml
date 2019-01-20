@@ -333,3 +333,12 @@
   lat: 20.888466
   lng: -76.204596
   url: https://t.me/pythoncuba/
+
+
+###
+### Benin
+###
+- name: Python Benin
+  lat: 6.379448
+  lng: 2.451324
+  url: https://pythonbenin.com/
