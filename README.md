@@ -40,7 +40,7 @@ To get the latitude and longitude information, you can use [this](https://www.la
 ### 3. Make a pull request
 At the end, create a pull request for this repository! You can find instructions [here](https://help.github.com/articles/creating-a-pull-request/).
 
-## A note on scrapping
+## A note on scraping
 > Personally, I want to avoid web scrapping to mass collect communities from other websites or repositories, because I'd like to see people adding the communities they _belong_ to. I think it creates a better sense of "putting yourself on the map" and also incentivise people to contribute to open source :)
 
 ## Testing
