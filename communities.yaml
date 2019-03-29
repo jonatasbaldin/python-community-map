@@ -331,7 +331,6 @@
   lng: -117.6695076
   url: http://www.pythonsd.org/
 
-
 ###
 ### Cuba
 ###
@@ -340,6 +339,7 @@
   lng: -76.204596
   url: https://t.me/pythoncuba/
 
+###
 ### Benin
 ###
 - name: Python Benin
@@ -347,9 +347,19 @@
   lng: 2.451324
   url: https://pythonbenin.com/
 
+###
 ### Venezuela
 ###
 - name: Fundacion Python de Venezuela
   lat: 8.422952
   lng: -66.983880
   url: https://pyve.github.io/
+
+###
+### Portugal
+###
+- name: Python Porto
+  lat: 41.1579
+  lng: -8.6291
+  url: https://pythonporto.org/
+  logo: https://pythonporto.org/img/pyporto-logo.png
