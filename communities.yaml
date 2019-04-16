@@ -182,6 +182,12 @@
 ###
 ### India
 ###
+- name: PyDelhi
+  lat: 28.7041
+  lng: 77.1025
+  url: https://www.meetup.com/pydelhi/
+  logo: https://avatars1.githubusercontent.com/u/7951742?s=200&v=4
+
 - name: ChennaiPy
   lat: 13.0827
   lng: 80.2707
