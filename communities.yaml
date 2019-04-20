@@ -307,6 +307,11 @@
   lng: -71.463033
   url: https://www.meetup.com/New-Hampshire-Python-Group/
 
+- name: Orlando Python User Group
+  lat: 28.541270
+  lng: -81.380882
+  url: http://pyorl.org
+
 - name: Puget Sound Programming Python (PuPPy)
   lat: 47.5989758
   lng: -122.3337873
