@@ -164,6 +164,14 @@
   url: https://pythonecuador.org/
 
 ###
+### Ireland
+###
+- name: Python Ireland
+  lat: 53.3498
+  lng: -6.266155
+  url: https://www.meetup.com/pythonireland/
+
+###
 ### Germany
 ###
 - name: Python User Group Freiburg
