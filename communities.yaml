@@ -116,6 +116,12 @@
   lng: -43.1763889
   url: http://pythonrio.python.org.br
 
+
+- name: PyLadies Belo Horizonte
+  lat: -19.8157
+  lng: -43.9542
+  url: https://www.facebook.com/pyladiesbh/
+
 - name: PyLadies Fortaleza
   lat: -3.732714
   lng: -38.526997
