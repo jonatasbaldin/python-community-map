@@ -121,6 +121,11 @@
   lng: -38.526997
   url: https://www.facebook.com/PyLadiesFortaleza/
 
+- name: PyLadies Belo Horizonte
+  lat: -19.8157
+  lng: -43.9542
+  url: https://www.facebook.com/pyladiesbh
+
 - name: Pydata Brasília
   lat: -15.834138
   lng: -47.919573
