@@ -23,7 +23,7 @@
   "homepage": "https://github.com/jonatasbaldin/python-community-map#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "js-yaml": "^3.12.0",
+    "js-yaml": "^3.13.1",
     "mocha": "^5.2.0"
   },
   "dependencies": {
